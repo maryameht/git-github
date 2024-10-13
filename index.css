@@ -1,0 +1,38 @@
+
+body {
+    text-align: center;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    background-color: rgba(0, 0, 0, 0.679);
+    color: white;
+}
+
+h1 {
+    font-size: 5em;
+    margin-bottom: 0.5%;
+}
+
+h2 {
+    font-size: 2em;
+    text-decoration: underline;
+}
+
+h3 {
+    font-size: 2em;
+}
+
+h4 {
+    font-size: 0.5 em;
+}
+
+.cajita {
+    background-color: rgb(94, 138, 141);
+    margin-left: 25% ;
+    margin-right: 25%;
+    padding: 2%;
+}
+
+footer {
+    margin-top: 2%;
+}
+
